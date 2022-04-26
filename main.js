@@ -1,3 +1,6 @@
+// * created by : Abdul Muttaqin
+// 25-040-2022
+
 const puppeteer = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 
